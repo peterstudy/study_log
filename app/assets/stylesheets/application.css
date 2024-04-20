@@ -2,7 +2,6 @@
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
  *
- *= require bootstrap
  * Any CSS (and SCSS, if configured) file within this directory, lib/assets/stylesheets, or any plugin's
  * vendor/assets/stylesheets directory can be referenced here using a relative path.
  *
